@@ -1,9 +1,9 @@
-.venv/
-.vscode/
+# Python
 __pycache__/
-*.pyc
-.DS_Store
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables (DO NOT COMMIT)
 .env
 .env.*
-README.md
-.news_seen.json
