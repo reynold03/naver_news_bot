@@ -5,5 +5,5 @@ __pycache__/
 .DS_Store
 .env
 .env.*
-!.env.example
+README.md
 .news_seen.json
